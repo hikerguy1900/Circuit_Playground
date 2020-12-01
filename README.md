@@ -1,9 +1,14 @@
 # Circuit Playground Tutorials
 
 To learn the Adafruit Circuit Playground Express and Microsoft MakeCode basics complete the
-[Blinky Blinky](https://makecode.adafruit.com/#tutorial:https://github.com/hikerguy1900/Circuit_Playground_Blinky_Blinky)
+[Blinky Blinky]
 tutorial.
 
+# Concepts
+* [Blinky Blinky](https://makecode.adafruit.com/#tutorial:https://github.com/hikerguy1900/Circuit_Playground_Blinky_Blinky):
+Microsoft MakeCode and Adafruit Circuit Playground Express basics.
+* [Light Show](https://makecode.adafruit.com/#tutorial:https://github.com/hikerguy1900/Circuit_Playground_Light_Show):
+Introduction to variables and conditionals.
 
 # Projects
 
