@@ -12,3 +12,4 @@ Introduction to variables and conditionals.
 * Napkin Holder Wood Design Files (TBD)
 * Design Files for 3D Printed Advent Pieces (TBD) 
 * Circuit Playground [Advent Program](https://makecode.adafruit.com/#tutorial:https://github.com/hikerguy1900/Circuit_Playground_Advent)
+* Circuit Playground [Star of Bethlehem Program](https://makecode.adafruit.com/#tutorial:https://github.com/hikerguy1900/star_of_bethlehem)
